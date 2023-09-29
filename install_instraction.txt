@@ -1,0 +1,6 @@
+1.Tailwind install
+2.deisyUI install
+3.prop install
+4.react icon install
+5.npm install rechart
+6.npm install axios
